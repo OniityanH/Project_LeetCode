@@ -1,4 +1,4 @@
-public class Jewels_and_Stones {
+/* public class Jewels_and_Stones {
     public int numJewelsInStones(String J, String S) {
         int number = 0;
         for (int i=0; i<J.length(); i++){
@@ -11,3 +11,4 @@ public class Jewels_and_Stones {
         return number;
     }
 }
+ */

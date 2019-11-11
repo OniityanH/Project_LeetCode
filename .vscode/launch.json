@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Split_a_String_in_Balanced_Strings",
+            "request": "launch",
+            "mainClass": "Split_a_String_in_Balanced_Strings",
+            "projectName": "Project_LeetCode_1a39f70d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Project_LeetCode_1a39f70d"
+        }
+    ]
+}
